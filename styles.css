@@ -5,12 +5,13 @@ body{
 	padding: 0;
 }
 
-h1{
+h2{
 	text-align: center;
 }
 
-img{
-	padding-left: 35%
+.image{
+	padding-left: 35%;
+	background-color: rgb(46, 204, 113);
 }
 .book-library{
 	background-color: #ffffff;
